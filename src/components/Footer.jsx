@@ -17,8 +17,9 @@ export default function Footer() {
       <div className="footer-inner">
         <div className="footer-left">
           <p>
-            © 2026 <span className="name">Ilias Fatheddine</span>. Built with
-            passion & curiosity.
+            <span className="text-text-dim">© 2026</span>{" "}
+            <span className="name">Ilias Fatheddine</span>.
+            Built with passion & curiosity.
           </p>
         </div>
         <div className="footer-socials">
